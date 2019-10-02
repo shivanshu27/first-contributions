@@ -9992,3 +9992,4 @@ quattad
 - [Malintha Kumarage](https://github.com/malintha90)]
 - [Mayank Srivastav](https://github.com/mks198766)]
 - [shivanshu kashyap](https://github.com/shivanshu27)]
+- [Nishant Singh](https://github.com/Nishant07singh)]
